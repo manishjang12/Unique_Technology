@@ -1,0 +1,249 @@
+    .serviceHr {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        border: 0;
+        border-top: 1px solid rgba(0, 0, 0, .1);
+        margin-top: 2%;
+        margin-bottom: 4%;
+    }
+    
+    .navbar-brand img {
+        border-radius: 53px;
+    }
+    
+    .navbar-brand {
+        width: 128px;
+        height: 30px;
+        margin-top: -15vh;
+        margin-bottom: 0vh;
+    }
+    
+    .contact__form {
+        border: 2px solid;
+        border-radius: 22px;
+        padding: 26px;
+        background: transparent;
+    }
+    
+    .contactBtn {
+        margin-left: 2%;
+        margin-bottom: 5vh;
+        border-radius: 12px;
+    }
+    
+    .below-form {
+        margin-top: 13%;
+    }
+    
+    .below-form .contentForm {
+        border: 2px solid;
+        padding: 19px;
+        border-radius: 14px;
+    }
+    
+    .serviceshome .container {
+        max-width: 88%;
+    }
+    
+    .section-title h2 {
+        font-size: 48px;
+        font-weight: 700;
+        color: antiquewhite;
+    }
+    
+    @media only screen and (max-width:1000px) {
+        .contact-side {
+            margin-top: 41px !important;
+        }
+    }
+    
+    .social-icons .fa {
+        border: 2px solid;
+        padding: 9px;
+        border-radius: 30px;
+        width: 35px;
+        height: 37px;
+    }
+    
+    .numberBtn {
+        border: 0.5px solid aqua;
+        color: blueviolet;
+    }
+    
+    .single-service h3 {
+        font-size: 21px;
+        font-weight: 700;
+        margin-bottom: 10px;
+        color: powderblue;
+    }
+    
+    .mb-4,
+    .my-4 {
+        margin-bottom: 1.5rem!important;
+        border-color: whitesmoke;
+        font-family: MuseoSans-500 !important;
+        font-weight: 700 !important;
+    }
+    
+    @media only screen and (max-width:570px) {
+        .serviceshome .row {
+            margin: auto;
+            justify-content: center;
+            max-width: 100%;
+        }
+        .serviceshome .col-md-4 {
+            position: relative;
+            width: 100%;
+            padding: 0px;
+        }
+        .serviceshome .container {
+            width: 100%;
+            padding: 0px;
+            margin: auto;
+        }
+        .serviceshome .service-section {
+            padding: 0px;
+        }
+    }
+    
+    @media only screen and (max-width:1055px) {
+        .text-lg {
+            font-size: 24px;
+        }
+    }
+    
+    .fa {
+        display: inline-block;
+        font: normal normal normal 14px/1 FontAwesome;
+        font-size: inherit;
+        text-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        color: white;
+    }
+    
+    .service-section {
+        padding: 1px;
+    }
+    
+    .service-info p {
+        line-height: 25px;
+    }
+    
+    .mb-3,
+    .my-3 {
+        margin-bottom: 1rem!important;
+        color: whitesmoke;
+    }
+    
+    .cta-2 .text-color {
+        color: whitesmoke !important;
+        font-weight: 700;
+        border-bottom: 2px solid;
+    }
+    
+    .contact-form-wrap .text-md {
+        font-size: 2.25rem;
+        font-family: 'Hind Siliguri', sans-serif;
+        color: whitesmoke;
+    }
+    
+    .contact-form-wrap h5,
+    .h5 {
+        font-size: 1.25rem;
+        color: #006bb0;
+    }
+    
+    .btn-main:hover {
+        color: whitesmoke;
+    }
+    
+    .aboutuspage h2,
+    .h2 {
+        font-size: 44px;
+        color: whitesmoke !important;
+    }
+    
+    .aboutuspage {
+        padding: 7px 0 !important;
+        margin-top: 65px !important;
+    }
+    
+    .vider-block {
+        margin-top: -17% !important;
+    }
+    
+    html,
+    body {
+        overflow-x: hidden;
+    }
+    
+    @media only screen and (max-width:980px) {
+        .navbar-brand {
+            width: 121px;
+            height: 34px;
+            margin-top: -13vh;
+        }
+    }
+    
+    .dropdown:hover .dropdown-menu {
+        visibility: visible;
+        transition: all .45s ease 0s;
+        opacity: 1;
+        background: black;
+    }
+    
+    .dropdown-item {
+        padding: .8rem 1.5rem;
+        text-transform: uppercase;
+        font-size: 12px;
+        color: whitesmoke;
+        font-weight: 400;
+    }
+    
+    .dropdown-item:hover {
+        color: whitesmoke;
+        background-color: black !important;
+    }
+    
+    .homeMain {
+        margin-left: 17% !important;
+    }
+    
+    .homep {
+        line-height: 25px;
+        font-family: 'PT Serif', serif;
+        color: rgb(56, 182, 255);
+    }
+    
+    @media only screen and (max-width:580px) {
+        .section-service-img {
+            padding-right: 0px !important;
+        }
+    }
+    
+    .home-main-cont {
+        margin-left: 27%;
+        padding-top: 7%;
+    }
+    
+    @media only screen and (max-width:1130px) {
+        .home-main-cont {
+            margin-left: 11%;
+            padding-top: 7%;
+        }
+    }
+    
+    @media only screen and (max-width: 845px) {
+        .home-main-cont {
+            margin-left: 4%;
+            padding-top: 7%;
+        }
+    }
+    
+    @media (max-width: 500px) {
+        .banner .block h1 {
+            font-size: 47px;
+            line-height: 61px;
+        }
+    }
